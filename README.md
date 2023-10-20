@@ -8,7 +8,7 @@ A Profile of Poverty in Boston, https://www.bostonplans.org/getattachment/732b0b
 Boston Neighborhood Profiles, https://www.bostonplans.org/getattachment/7987d9b4-193b-4749-8594-e41f1ae27719
 
 This project was carried out by B01 team:
-Project Manager: Rohit Devanaboina
+Project Manager: Rohit Devanaboina ; 
 Team Member:
 Yifan Fan (Eva)
 Jiayi Huang
