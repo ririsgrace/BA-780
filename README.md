@@ -1,5 +1,4 @@
 # BA-780
-Project title: Boston 311 Service Request and Resolution Analysis
 Data sources: 
 311 SERVICE REQUESTS, https://data.boston.gov/dataset/311-service-requests
 BOSTON 311, https://www.boston.gov/departments/boston-311
