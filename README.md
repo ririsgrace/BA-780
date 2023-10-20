@@ -10,7 +10,7 @@ Boston Neighborhood Profiles, https://www.bostonplans.org/getattachment/7987d9b4
 This project was carried out by B01 team:
 Project Manager: Rohit Devanaboina ; 
 Team Member:
-Yifan Fan (Eva)
-Jiayi Huang
-Shailoz Kumar Singh
+Yifan Fan (Eva),
+Jiayi Huang,
+Shailoz Kumar Singh,
 Riris Grace Karolina
