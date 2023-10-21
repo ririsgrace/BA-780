@@ -1,10 +1,6 @@
 # Boston 311 Service Request and Resolution Analysis
 
-**This project was carried out by B01 team**
-
-**Project Manager: Rohit Devanaboina**
-
-**Team Member: Riris Grace Karolina,  Yifan Fan (Eva), Jiayi Huang, Shailoz Kumar Singh**
+**This project was carried out by B01 team: Rohit Devanaboina (Project Manager), Riris Grace Karolina,  Yifan Fan (Eva), Jiayi Huang, Shailoz Kumar Singh**
 
 ![logo](https://github.com/ririsgrace/Boston_311_Analysis/assets/144182572/3f0a8cc6-4247-410c-afc8-701742403306)
 **Objective**
