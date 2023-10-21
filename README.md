@@ -1,6 +1,6 @@
-# BA-780
+# Boston 311Service Request and Resolution Analysis
 
-This project was carried out by B01 team:
+#This project was carried out by B01 team:
 Project Manager: Rohit Devanaboina ; 
 Team Member:
 Yifan Fan (Eva),
