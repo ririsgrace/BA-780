@@ -1,15 +1,16 @@
 # Boston 311 Service Request and Resolution Analysis
 
-**This project was carried out by B01 team:
-Project Manager: Rohit Devanaboina ; 
-Team Member:
-Yifan Fan (Eva),
+**This project was carried out by B01 team**
+
+**Project Manager: Rohit Devanaboina**
+
+**Team Member**
+**Yifan Fan (Eva),
 Jiayi Huang,
 Shailoz Kumar Singh,
 Riris Grace Karolina**
 
 ![logo](https://github.com/ririsgrace/Boston_311_Analysis/assets/144182572/3f0a8cc6-4247-410c-afc8-701742403306)
-
 **Objective**
 
 To identify the reasons behind why some requests are resolved in a timely manner, while others go unresolved or overdue. We hope to understand and quantify the factors behind successful request resolution, and incorporate them into a predictive model that can accurately predict the likelihood of a given request's timely resolution.
