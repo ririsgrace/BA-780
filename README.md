@@ -14,14 +14,14 @@ Riris Grace Karolina**
 
 **Motivation:**
 
-**By analyzing 311's successes and failures, we can help the city better understand why the system fails to resolve a significant portion of requests received. This understanding will help the city make better informed decisions regarding resource allocation, public services, and general administrative strategy. The expected end result is an overall increase in the 311 system's resolution rate and a higher quality of life for Bostonians.
-**
+**By analyzing 311's successes and failures, we can help the city better understand why the system fails to resolve a significant portion of requests received. This understanding will help the city make better informed decisions regarding resource allocation, public services, and general administrative strategy. The expected end result is an overall increase in the 311 system's resolution rate and a higher quality of life for Bostonians.**
+
 **Key Findings:**
 
 
 **Our model, which is based on the key factors behind request failure discovered during EDA, is highly calibrated (with only a 4% Mean Average Deviation). This leads us to two conclusions:**
 
-**Our analysis of the factors behind request resolution contains valuable information
+**Our analysis of the factors behind request resolution contains valuable information**
 
-The city of Boston can make smarter decisions on task allocations and prioritization by applying the data-driven methods and models we've demonstrated here**
+**The city of Boston can make smarter decisions on task allocations and prioritization by applying the data-driven methods and models we've demonstrated here**
 
